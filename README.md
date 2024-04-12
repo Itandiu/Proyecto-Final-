@@ -25,7 +25,7 @@ El programa funciona de la siguiente manera:
 
 Para ejecutar este programa, necesitas tener instalado lo siguiente:
 
-- Python 3 en adelante, instalado en tu sistema.
+- Python 3. 8 instalado en tu sistema.
 - Los archivos PDF que deseas comparar deben estar en la misma carpeta que el script Python.
 
 ## Uso
