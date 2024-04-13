@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl-nix-pdf-a-txt"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "repl_nix_pdf_a_txt"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fitz = "^0.0.1.dev2"
+pymupdf = "1.24.1"
+pypdf2 = "3.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
